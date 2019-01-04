@@ -11,3 +11,6 @@ ribbon:
     enabled: true
 env:
   test233
+girl:
+  name: lili
+  age: 18
