@@ -10,4 +10,4 @@ ribbon:
   eureka:
     enabled: true
 env:
-  test2
+  test233
