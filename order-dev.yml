@@ -15,3 +15,5 @@ ribbon:
     enabled: true
 env:
   dev
+label:
+  release
