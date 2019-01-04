@@ -15,3 +15,5 @@ ribbon:
     enabled: true
 env:
   test
+label:
+  release
