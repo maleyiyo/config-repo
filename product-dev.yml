@@ -9,5 +9,8 @@ spring:
     port: 5672
     password: guest
     username: guest
+  redis:
+    host: 192.168.99.100
+    port: 6379
   jpa:
     show-sql: true
